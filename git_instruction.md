@@ -1,4 +1,4 @@
-![Logo](accidentallyinspiredmusic.png)
+!git[Logo](accidentallyinspiredmusic.png)
 # Работа с GIT
 
 ## 1. Проверка наличия установленного Git
